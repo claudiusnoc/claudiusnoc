@@ -35,27 +35,19 @@ Morando em **Belo Horizonte, Minas Gerais, Brasil**, construo ferramentas que re
 
 ### Portal Consulta
 
-<a href="https://claudiusnoc.github.io/portalconsulta/">
-  <img src="https://raw.githubusercontent.com/claudiusnoc/claudiusnoc/main/assets/portalconsulta.png" alt="Prévia do Portal Consulta" width="720">
-</a>
+[![Prévia do Portal Consulta](https://raw.githubusercontent.com/claudiusnoc/claudiusnoc/main/assets/portalconsulta.png)](https://claudiusnoc.github.io/portalconsulta/)
 
 ### Consulta TBSA
 
-<a href="https://claudiusnoc.github.io/consultaacesso/">
-  <img src="https://raw.githubusercontent.com/claudiusnoc/claudiusnoc/main/assets/consultaacesso.png" alt="Prévia da Consulta TBSA" width="720">
-</a>
+[![Prévia da Consulta TBSA](https://raw.githubusercontent.com/claudiusnoc/claudiusnoc/main/assets/consultaacesso.png)](https://claudiusnoc.github.io/consultaacesso/)
 
 ### Cronograma de Manutenção
 
-<a href="https://claudiusnoc.github.io/cronograma/">
-  <img src="https://raw.githubusercontent.com/claudiusnoc/claudiusnoc/main/assets/cronograma.png" alt="Prévia do Cronograma de Manutenção" width="720">
-</a>
+[![Prévia do Cronograma de Manutenção](https://raw.githubusercontent.com/claudiusnoc/claudiusnoc/main/assets/cronograma.png)](https://claudiusnoc.github.io/cronograma/)
 
 ### Dashboard de Acessos
 
-<a href="https://claudiusnoc.github.io/Dashboardacesso/">
-  <img src="https://raw.githubusercontent.com/claudiusnoc/claudiusnoc/main/assets/dashboardacesso-login.png" alt="Tela de acesso do Dashboard de Acessos" width="720">
-</a>
+[![Tela de acesso do Dashboard de Acessos](https://raw.githubusercontent.com/claudiusnoc/claudiusnoc/main/assets/dashboardacesso-login.png)](https://claudiusnoc.github.io/Dashboardacesso/)
 
 ## 📬 Contato
 
