@@ -35,19 +35,19 @@ Morando em **Belo Horizonte, Minas Gerais, Brasil**, construo ferramentas que re
 
 ### Portal Consulta
 
-[![Prévia do Portal Consulta](https://raw.githubusercontent.com/claudiusnoc/claudiusnoc/main/assets/portalconsulta.png)](https://claudiusnoc.github.io/portalconsulta/)
+[![Prévia do Portal Consulta](./assets/portalconsulta.png)](https://claudiusnoc.github.io/portalconsulta/)
 
 ### Consulta TBSA
 
-[![Prévia da Consulta TBSA](https://raw.githubusercontent.com/claudiusnoc/claudiusnoc/main/assets/consultaacesso.png)](https://claudiusnoc.github.io/consultaacesso/)
+[![Prévia da Consulta TBSA](./assets/consultaacesso.png)](https://claudiusnoc.github.io/consultaacesso/)
 
 ### Cronograma de Manutenção
 
-[![Prévia do Cronograma de Manutenção](https://raw.githubusercontent.com/claudiusnoc/claudiusnoc/main/assets/cronograma.png)](https://claudiusnoc.github.io/cronograma/)
+[![Prévia do Cronograma de Manutenção](./assets/cronograma.png)](https://claudiusnoc.github.io/cronograma/)
 
 ### Dashboard de Acessos
 
-[![Tela de acesso do Dashboard de Acessos](https://raw.githubusercontent.com/claudiusnoc/claudiusnoc/main/assets/dashboardacesso-login.png)](https://claudiusnoc.github.io/Dashboardacesso/)
+[![Tela de acesso do Dashboard de Acessos](./assets/dashboardacesso-login.png)](https://claudiusnoc.github.io/Dashboardacesso/)
 
 ## 📬 Contato
 
