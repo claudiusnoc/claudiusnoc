@@ -4,6 +4,11 @@
 
 Morando em **Belo Horizonte, Minas Gerais, Brasil**, construo ferramentas que resolvem problemas reais de operação: automações, dashboards e portais que organizam fluxos de acesso, manutenção e acompanhamento.
 
+## 🎓 Formação
+
+- **Análise e Desenvolvimento de Sistemas** — Unifatecie
+- **Gestão Pública** — Unifatecie
+
 ## 🧰 Stack e ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
