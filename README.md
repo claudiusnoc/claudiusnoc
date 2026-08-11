@@ -1,4 +1,4 @@
-# Olá, eu sou Claudius Rangel 👋
+# Olá, eu sou o Claudius Igor 👋
 
 > foco em automação de processos internos, dashboards, portais de acessos e manutenção.
 
