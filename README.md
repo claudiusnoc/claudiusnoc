@@ -1,8 +1,8 @@
 # Claudius Rangel
 
-Foco em automação de processos internos, dashboards, portais de acessos e manutenção.
+Foco em automacao de processos internos, dashboards, portais de acessos e manutencao.
 
-## Formação
+## Formacao
 
-- Análise e Desenvolvimento de Sistemas — Unifatecie (em curso)
-- Gestão Pública — Unifatecie (em curso)
+- Analise e Desenvolvimento de Sistemas - Unifatecie (em curso)
+- Gestao Publica - Unifatecie (em curso)
