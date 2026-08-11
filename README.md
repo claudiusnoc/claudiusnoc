@@ -6,8 +6,8 @@ Morando em **Belo Horizonte, Minas Gerais, Brasil**, construo ferramentas que re
 
 ## 🎓 Formação
 
-- **Análise e Desenvolvimento de Sistemas** — Unifatecie
-- **Gestão Pública** — Unifatecie
+- **Análise e Desenvolvimento de Sistemas** — Unifatecie *(em curso)*
+- **Gestão Pública** — Unifatecie *(em curso)*
 
 ## 🧰 Stack e ferramentas
 
@@ -27,9 +27,35 @@ Morando em **Belo Horizonte, Minas Gerais, Brasil**, construo ferramentas que re
 |---|---|---|
 | [**Portal Consulta**](https://github.com/claudiusnoc/portalconsulta) | Portal para consulta de acessos. | [Abrir app](https://claudiusnoc.github.io/portalconsulta/) |
 | [**Consulta Acesso**](https://github.com/claudiusnoc/consultaacesso) | Consulta de status de chamados de acesso, publicada via GitHub Pages. | [Abrir app](https://claudiusnoc.github.io/consultaacesso/) |
-| [**Cronograma**](https://github.com/claudiusnoc/cronograma) | Plataforma de gestão de manutenção preventiva e corretiva predial/industrial, com exportação PDF executiva. | [Abrir app](https://claudiusnoc.github.io/cronograma/) |
-| [**Dashboard Acesso**](https://github.com/claudiusnoc/Dashboardacesso) | Portal de acessos para Claro MG: fluxo operacional, documentação, mapa e trilha auditável (React + Supabase). | [Abrir app](https://claudiusnoc.github.io/Dashboardacesso/) |
-| [**Liquid Glass Design System**](https://github.com/claudiusnoc/liquid-glass-design-system) | Design system iOS 26 Liquid Glass para SwiftUI, UIKit e WidgetKit, com padrões de morphing, reflexão e vidro interativo. | — |
+| [**Cronograma**](https://github.com/claudiusnoc/cronograma) | Gestão de manutenção preventiva e corretiva predial/industrial, com exportação de relatórios. | [Abrir app](https://claudiusnoc.github.io/cronograma/) |
+| [**Dashboard Acesso**](https://github.com/claudiusnoc/Dashboardacesso) | Portal de acessos para Claro MG, com fluxo operacional, documentação, mapa e trilha auditável. | [Abrir app](https://claudiusnoc.github.io/Dashboardacesso/) |
+| [**Liquid Glass Design System**](https://github.com/claudiusnoc/liquid-glass-design-system) | Design system Liquid Glass para SwiftUI, UIKit e WidgetKit. | — |
+
+## 🖥️ Ferramentas web
+
+### Portal Consulta
+
+<a href="https://claudiusnoc.github.io/portalconsulta/">
+  <img src="https://raw.githubusercontent.com/claudiusnoc/claudiusnoc/main/assets/portalconsulta.png" alt="Prévia do Portal Consulta" width="720">
+</a>
+
+### Consulta TBSA
+
+<a href="https://claudiusnoc.github.io/consultaacesso/">
+  <img src="https://raw.githubusercontent.com/claudiusnoc/claudiusnoc/main/assets/consultaacesso.png" alt="Prévia da Consulta TBSA" width="720">
+</a>
+
+### Cronograma de Manutenção
+
+<a href="https://claudiusnoc.github.io/cronograma/">
+  <img src="https://raw.githubusercontent.com/claudiusnoc/claudiusnoc/main/assets/cronograma.png" alt="Prévia do Cronograma de Manutenção" width="720">
+</a>
+
+### Dashboard de Acessos
+
+<a href="https://claudiusnoc.github.io/Dashboardacesso/">
+  <img src="https://raw.githubusercontent.com/claudiusnoc/claudiusnoc/main/assets/dashboardacesso-login.png" alt="Tela de acesso do Dashboard de Acessos" width="720">
+</a>
 
 ## 📬 Contato
 
